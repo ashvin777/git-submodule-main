@@ -1,0 +1,3 @@
+[submodule "git-submodule-dropdown"]
+	path = git-submodule-dropdown
+	url = https://github.com/ashvin777/git-submodule-dropdown
